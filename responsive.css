@@ -33,6 +33,10 @@
         width: auto;
         float:  none;
     }
+    
+    .buku {
+        width : 100%
+    }
 
 }
 
