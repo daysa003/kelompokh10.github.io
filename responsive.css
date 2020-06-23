@@ -1,4 +1,4 @@
-@media screen and (max-width:1140px){
+@media screen and (max-width:1000px){
     .container{
         width: 100%;
     }
@@ -16,7 +16,7 @@
     }
     
     .buku, .judul, .penulis {
-        width : 25%
+        width : 50%
     }
 
 }
