@@ -34,7 +34,7 @@
         float:  none;
     }
     
-    .buku {
+    .buku, .judul, .penulis {
         width : 100%
     }
 
